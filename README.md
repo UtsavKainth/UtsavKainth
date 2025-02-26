@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [GitHub)
+- 👨‍💻 All of my projects are available at [GitHub]
 
 - 💬 Ask me about **HTML, CSS**
 
