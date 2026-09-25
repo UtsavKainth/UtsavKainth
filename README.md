@@ -1,30 +1,148 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg)
-<h1 align="center">Hi 👋, I'm Utsav Kainth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2847.jpg">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavkainth&label=Profile%20views&color=0e75b6&style=flat" alt="utsavkainth" /> </p>
+# Hi, I'm Utsav Kainth 👋
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Full-Stack Developer | Cloud Computing & DevOps Enthusiast
 
-- 🌱 I’m currently learning **JavaScript**
+Building scalable web applications and continuously exploring modern
+development, cloud infrastructure, and DevOps technologies.
 
-- 👨‍💻 All of my projects are available at [GitHub]
+</div>
 
-- 💬 Ask me about **HTML, CSS**
+---
 
-- 📫 How to reach me **ukainth6@gmail.com**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/utsav kainth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsav kainth" height="30" width="40" /></a>
+I'm a developer focused on building practical, scalable, and
+production-oriented web applications.
+
+🎓 Pursuing **MCA with specialization in Cloud Computing & DevOps**
+
+💻 Interested in **Full-Stack Web Development**
+
+⚛️ Building modern frontend applications with **React.js**
+
+⚙️ Developing REST APIs and backend systems using **Node.js & Express.js**
+
+🗄️ Working with **MongoDB** for application databases
+
+☁️ Exploring **Cloud Computing, CI/CD, Docker & Kubernetes**
+
+🧠 Strengthening my knowledge of **Data Structures & Algorithms**
+
+🚀 Currently developing and improving **GENZEREAL**, a full-stack
+e-commerce platform.
+
+---
+
+## 🚀 Featured Project
+
+### 🛍️ GENZEREAL — Full-Stack E-Commerce Platform
+
+GENZEREAL is a production-focused MERN stack e-commerce application
+designed to provide a complete online shopping experience.
+
+### Key Features
+
+- 🔐 Secure user authentication
+- 🛒 Shopping cart & checkout
+- ❤️ Wishlist management
+- 📦 Order management
+- 💳 Razorpay payment integration
+- ⭐ Product reviews
+- 🖼️ Cloudinary image management
+- 📧 Automated email notifications
+- 🚚 Shipping & logistics integration
+- 📱 Responsive frontend
+- 🔗 REST API architecture
+
+### Technology Stack
+
+`React.js` `Vite` `Node.js` `Express.js` `MongoDB`  
+`JWT` `Cloudinary` `Razorpay` `REST API`
+
+🌐 **Live Website:**  
+https://genzereal.vercel.app
+
+💻 **Source Code:**  
+https://github.com/UtsavKainth/genzereal
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,cpp,c,java" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+### Frontend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavkainth&show_icons=true&locale=en&layout=compact" alt="utsavkainth" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsavkainth&show_icons=true&locale=en" alt="utsavkainth" /></p>
+### Backend Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsavkainth&" alt="utsavkainth" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=UtsavKainth&show_icons=true&hide_border=true"
+height="165"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavKainth&layout=compact&hide_border=true"
+height="165"
+/>
+
+</div>
+
+---
+
+## 🔥 GitHub Activity
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com/?user=UtsavKainth&hide_border=true"
+/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Full-Stack Development  █████████████████░░░
+Cloud Computing         ███████████████░░░░░
+DevOps                  ██████████████░░░░░░
+Data Structures         ████████████░░░░░░░░
