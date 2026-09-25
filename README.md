@@ -62,7 +62,7 @@ designed to provide a complete online shopping experience.
 `JWT` `Cloudinary` `Razorpay` `REST API`
 
 🌐 **Live Website:**  
-https://genzereal.vercel.app
+https://genzereal.com/
 
 💻 **Source Code:**  
 https://github.com/UtsavKainth/genzereal
